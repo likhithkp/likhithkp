@@ -25,6 +25,4 @@ Frontend Developer specializing in Next.js and Material-UI. With a keen eye for 
 ![](https://github-contributor-stats.vercel.app/api?username=likhithkp&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=likhithkp&icon=4&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
