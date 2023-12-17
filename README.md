@@ -1,6 +1,6 @@
 # Hi there👋, I'm Likhith!
 
-Software Architect crafting elegant solutions, line by line. Obsessed with clean code and impactful experiences.
+Software Developer crafting elegant solutions, line by line. Obsessed with clean code and impactful experiences.
 
 ### 😃 More About Me:
 - 🔭 I’m currently working on **Front-End Development**
