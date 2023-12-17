@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi there 👋 Im Likhith
 
+Software Architect crafting elegant solutions, line by line. Obsessed with clean code and impactful experiences.
+
+## More About Me
 - 🔭 I’m currently working on **Front-End Development**
 - 🌱 I’m currently learning **Next.js and Material UI**
 - 👯 I’m looking to collaborate on **Full stack web projects**
@@ -7,8 +10,6 @@
 - 📫 How to reach me: **likhithkpdev@gmail.com**
 - 😄 Pronouns: He/Him
 
-## About Me
-Frontend Developer specializing in Next.js and Material-UI. With a keen eye for detail and a passion for creating seamless user experiences, I've had the privilege of contributing to innovative projects that exceed user expectations. My journey in frontend development has equipped me with a diverse skill set, encompassing expertise in Next.js, React, Material-UI, and proficiency in HTML, CSS, and JavaScript. I thrive on the challenges of staying ahead of industry trends, ensuring my work is always at the cutting edge.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hu3KD5HzTB) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/likhithkp09/) 
