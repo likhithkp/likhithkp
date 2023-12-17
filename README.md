@@ -21,14 +21,8 @@ Software Developer crafting elegant solutions, line by line. Obsessed with clean
 ![](https://github-readme-streak-stats.herokuapp.com/?user=likhithkp&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=likhithkp&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=likhithkp&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=likhithkp&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=likhithkp&limit=5&theme=dark&combine_all_yearly_contributions=true)
