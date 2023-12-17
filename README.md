@@ -1,5 +1,4 @@
 # Hi there👋, I'm Likhith!
-[![](https://visitcount.itsvg.in/api?id=likhithkp&icon=5&color=9)](https://visitcount.itsvg.in)
 
 Software Developer crafting elegant solutions, line by line. Obsessed with clean code and impactful experiences.
 
