@@ -2,7 +2,7 @@
 
 Software Architect crafting elegant solutions, line by line. Obsessed with clean code and impactful experiences.
 
-### More About Me:
+### 😃 More About Me:
 - 🔭 I’m currently working on **Front-End Development**
 - 🌱 I’m currently learning **Next.js and Material UI**
 - 👯 I’m looking to collaborate on **Full stack web projects**
