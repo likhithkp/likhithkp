@@ -1,5 +1,4 @@
 # Hi there👋, I'm Likhith!
-[![](https://visitcount.itsvg.in/api?id=likhithkp&icon=5&color=9)](https://visitcount.itsvg.in)
 
 Software Developer crafting elegant solutions, line by line. Obsessed with clean code and impactful experiences.
 
@@ -18,15 +17,15 @@ Software Developer crafting elegant solutions, line by line. Obsessed with clean
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hu3KD5HzTB) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/likhithkp09/) 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=likhithkp&theme=prussian&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=likhithkp&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=likhithkp&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=likhithkp&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=likhithkp&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=likhithkp&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=likhithkp&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=likhithkp&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=likhithkp&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
