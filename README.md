@@ -5,7 +5,7 @@ Software Developer crafting elegant solutions, line by line. Obsessed with clean
 ### 😃 More About Me:
 - 🔭 I’m currently working on **Front-End Development**
 - 🌱 I’m currently learning **Next.js and Material UI**
-- 👯 I’m looking to collaborate on **Full stack web projects**
+- 👯 I’m looking to collaborate on **Full Stack Web Projects**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **likhithkpdev@gmail.com**
 - 😄 Pronouns: He/Him
