@@ -1,4 +1,5 @@
 # Hi there👋, I'm Likhith!
+[![](https://visitcount.itsvg.in/api?id=likhithkp&icon=4&color=12)](https://visitcount.itsvg.in)
 
 Software Developer crafting elegant solutions, line by line. Obsessed with clean code and impactful experiences.
 
@@ -17,9 +18,13 @@ Software Developer crafting elegant solutions, line by line. Obsessed with clean
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hu3KD5HzTB) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/likhithkp09/) 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=likhithkp&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=likhithkp&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=likhithkp&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=likhithkp&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=likhithkp&theme=onedark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=likhithkp&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=likhithkp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=likhithkp&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+[![](https://visitcount.itsvg.in/api?id=likhithkp&icon=4&color=12)](https://visitcount.itsvg.in)
