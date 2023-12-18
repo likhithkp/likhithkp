@@ -1,6 +1,6 @@
 # Hi there👋, I'm Likhith!
 
-👨‍💻 Enthusiastic software developer creating clean and efficient code. Embracing continuous learning and always excited to collaborate on innovative projects. Let's code something amazing together! 🚀
+Enthusiastic software developer creating clean and efficient code. Embracing continuous learning and always excited to collaborate on innovative projects. Let's code something amazing together! 
 
 ### 😃 More About Me:
 - 🔭 I’m currently working on **Front-End Development**
