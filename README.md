@@ -1,8 +1,5 @@
 # Hi there👋, I'm Likhith!
 
-Enthusiastic software developer creating clean and efficient code. Embracing continuous learning and always excited to collaborate on innovative projects. Let's code something amazing together! 
-
-### 😃 More About Me:
 - 🔭 I’m currently working on **Front-End Development**
 - 🌱 I’m currently learning **Next.js and Material UI**
 - 👯 I’m looking to collaborate on **Full Stack Web Projects**
