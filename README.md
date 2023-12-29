@@ -13,7 +13,6 @@
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=likhithkp&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=likhithkp&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ### Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hu3KD5HzTB) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/likhithkp09/) 
