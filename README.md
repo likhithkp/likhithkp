@@ -1,6 +1,6 @@
 # Hi there, I'm Likhith!
 
--  Currently working on **Front-End Development**
+-  Currently working as **Front-End Developer**
 -  Learning **Next.js and Material UI**
 -  Loking to collaborate on **Full Stack Web Projects**
 
