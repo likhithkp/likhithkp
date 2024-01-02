@@ -1,4 +1,4 @@
-# Hi there, I'm Likhith!
+# Hi there, I'm Likhith
 
 -  Currently working as **Front-End Developer**
 -  Learning **Next.js and Material UI**
