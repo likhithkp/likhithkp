@@ -3,7 +3,6 @@
 ### About Me:
 - Software developer with a focus on crafting efficient solutions.
 - Currently working with NextJS and Material-UI (MUI).
-- Passionate about creating elegant and functional applications.
 - Committed to continuous learning and staying updated with industry trends.
 - Open to collaboration and excited about contributing to innovative projects.
 - Enjoys tackling challenges and finding creative solutions in the world of software development.
