@@ -3,7 +3,6 @@
 ### About Me:
 - Currently working with NextJS and Material-UI (MUI).
 - Open to collaboration and excited about contributing to innovative projects.
-- Enjoys tackling challenges and finding creative solutions in the world of software development.
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=likhithkp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
