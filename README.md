@@ -1,8 +1,9 @@
+[![](https://visitcount.itsvg.in/api?id=likhithkp&icon=0&color=6)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>
 
-[![](https://visitcount.itsvg.in/api?id=likhithkp&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/TNHjcGcAj9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/likhithkp09/) 
