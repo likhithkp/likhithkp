@@ -9,7 +9,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=likhithkp&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=likhithkp&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
