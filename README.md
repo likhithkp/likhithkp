@@ -1,11 +1,11 @@
 ## About Me
-- 👋 Hi, I'm Likhith!
-- 🚀 Passionate about coding and creating.
-- 💻 Currently immersed in Next.js and Material-UI.
-- 🔧 Crafting clean and efficient solutions.
-- 🌐 Pushing the boundaries of web development.
-- 🛠️ GitHub is my playground for experimentation and collaboration.
-- 👨‍💻 Let's build something amazing together!
+👋 Hi, I'm Likhith!
+🚀 Passionate about coding and creating.
+💻 Currently immersed in Next.js and Material-UI.
+🔧 Crafting clean and efficient solutions.
+🌐 Pushing the boundaries of web development.
+🛠️ GitHub is my playground for experimentation and collaboration.
+👨‍💻 Let's build something amazing together!
 
 
 ## 💻 Tech Stack:
