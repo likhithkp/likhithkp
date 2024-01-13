@@ -1,7 +1,7 @@
 # Hi there, I'm Likhith
 
 ### About Me:
-- Currently working with NextJS and Material-UI (MUI).
+- Currently working with Next.js and Material UI.
 - Open to collaboration and excited about contributing to innovative projects.
 
 ### GitHub Stats:
