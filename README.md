@@ -5,9 +5,6 @@
 - Open to collaboration and excited about contributing to innovative projects.
 
 ### Tech stacks
-
-<h2 align="left">I code with</h2>
-
 <br clear="both">
 
 <div align="center">
