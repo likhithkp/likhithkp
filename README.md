@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Next.js and Material UI**
+  
 - 👯 I’m looking to collaborate on **web**
-- 📫 How to reach me **likhithkpdev@gmail.com**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=likhithkp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### GitHub Trophies:
