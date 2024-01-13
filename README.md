@@ -1,22 +1,12 @@
-<h1>Hey 👋 </h1>
+# Hi there, I'm Likhith
 
-###
+### About Me:
+- Currently working with Next.js and Material UI.
+- Open to collaboration and excited about contributing to innovative projects.
 
-<p align="left">My name is Likhith and I'm a software developer</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Next.js and Material UI</p>
-
-###
+### Tech stacks
 
 <h2 align="left">I code with</h2>
-
-###
 
 <br clear="both">
 
@@ -75,14 +65,6 @@
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
-
-###
-
-# Hi there, I'm Likhith
-
-### About Me:
-- Currently working with Next.js and Material UI.
-- Open to collaboration and excited about contributing to innovative projects.
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=likhithkp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
