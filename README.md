@@ -78,35 +78,18 @@
 
 ###
 
-<br clear="both">
+# Hi there, I'm Likhith
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/likhithkp09/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/https://discord.gg/hu3KD5HzTB" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="likhithkpdev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+### About Me:
+- Currently working with Next.js and Material UI.
+- Open to collaboration and excited about contributing to innovative projects.
 
-###
+### GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=likhithkp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=likhithkp&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-<br clear="both">
+### Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hu3KD5HzTB) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/likhithkp09/) 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithkp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=likhithkp&theme=dracula&column=4&row=4&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=likhithkp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/likhithkp/count.svg?"  />
-</div>
-
-###
 
