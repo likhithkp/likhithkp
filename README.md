@@ -1,4 +1,4 @@
-# Hey There 👋🏻, I'm Likhith!
+# Hey There 👋, I'm Likhith!
 Devoting passion to code | Crafting solutions with precision | Embracing challenges with enthusiasm | Pursuer of excellence 🚀
 
 ### 💫 More About Me:
