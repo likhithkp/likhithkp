@@ -1,5 +1,5 @@
 # Hey There 👋🏻, I'm Likhith!
-Result-Driven Professional | Passionate Developer | Thriving on Challenges | Committed to Excellence 🚀
+An enthusiastic computer science engineer skilled in coding . Seeking to leverage solid skills in collaboration, communication & development as a programmer.
 
 ### 💫 More About Me:
 - 🔭   I’m currently working on Frontend Development. <br/>
