@@ -1,6 +1,5 @@
 # Hey There 👋, I'm Likhith!
-Devoting passion to code | Crafting solutions with precision | Embracing challenges with enthusiasm | Pursuer of excellence 🚀
-
+An enthusiastic computer science engineer skilled in coding . Seeking to leverage solid skills in collaboration, communication & development as a programmer.
 ### 💫 More About Me:
 - 🔭   I’m currently working on Frontend Development. <br/>
 - 🌱   I’m currently learning Next.js & Material UI.<br/>
