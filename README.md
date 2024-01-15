@@ -1,5 +1,5 @@
 # Hey There 👋, I'm Likhith!
-An enthusiastic developer skilled in coding. Seeking to leverage solid skills in collaboration, communication & development as a programmer.
+An enthusiastic developer skilled in coding. Seeking to leverage solid skills in collaboration, communication & development.
 
 ## 💫 More About Me:
 - 🔭   I’m currently working on Frontend Development. <br/>
