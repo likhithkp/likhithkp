@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Likhith!<br>🚀 Passionate about coding and creating.<br>💻 Currently immersed in Next.js and Material-UI.<br>🔧 Crafting clean and efficient solutions.<br>🌐 Pushing the boundaries of web development.<br>🛠️ GitHub is my playground for experimentation and collaboration.<br>👨‍💻 Let's build something amazing together!
+👋 Hi, I'm Likhith!<br>🚀 Passionate about coding and creating.<br>💻 Currently immersed in Next.js and Material-UI.<br>🔧 Crafting clean and efficient solutions.<br>🌐 Pushing the boundaries of web development.<br>👨‍💻 Let's build something amazing together!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/TzBVkZdKtk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/likhithkp09) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19938201) 
