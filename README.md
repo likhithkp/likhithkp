@@ -1,7 +1,7 @@
 # Hey There 👋🏻, I'm Likhith!
 Devoting passion to code | Crafting solutions with precision | Embracing challenges with enthusiasm | Pursuer of excellence 🚀
 
-### 💫 More About Me:
+### 💫 More About Me:</br>
 - 🔭   I’m currently working on Frontend Development. <br/>
 - 🌱   I’m currently learning Next.js & Material UI.<br/>
 - 👨🏻‍💻   Most of my projects are available on Github.<br/>
