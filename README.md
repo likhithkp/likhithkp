@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=likhithkp&icon=0&color=5)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 👋 Hi, I'm Likhith!<br>🚀 Passionate about coding and creating.<br>💻 Currently immersed in Next.js and Material-UI.<br>🔧 Crafting clean and efficient solutions.<br>🌐 Pushing the boundaries of web development.<br>🛠️ GitHub is my playground for experimentation and collaboration.<br>👨‍💻 Let's build something amazing together!
 
