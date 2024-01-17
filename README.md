@@ -1,5 +1,5 @@
-# Hey There 👋, I'm Likhith!
-Result-Driven Professional | Passionate Developer 🚀
+# Hey Ther, I'm Likhith!
+Result-Driven Professional | Passionate Developer 
 
 ## 💫 More About Me:
 - I’m currently working on Frontend Development. <br/>
