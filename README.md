@@ -1,4 +1,4 @@
-# Hey There 👋🏻, I'm Likhith!
+# Hey There👋, I'm Likhith!
 Result-Driven Professional | Passionate Developer 🧑‍💻
 
 ## 💫 More About Me:
