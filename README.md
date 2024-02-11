@@ -5,8 +5,6 @@ Result-Driven Professional | Passionate Developer 🧑‍💻
 - I’m currently working on Frontend Development. <br/>
 - I’m currently learning Next.js & Material UI.<br/>
 - Most of my projects are available on Github.<br/>
-- Ask me about anything reasonable, I am happy to help.<br/>
-- Things I like: Science, Cars, Exploring stuff....<br/>
 - What I'm planning to learn next is : Backend Development.<br/>
 
 ## 💻 Tech Stack:
