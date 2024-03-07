@@ -2,7 +2,7 @@
 Result-Driven Professional | Passionate Developer 🧑‍💻
 
 ## 💫 More About Me:
-- I’m currently working on Next.js, Material UI & React Native.<br/>
+- I’m currently working with Next.js, Material UI & React Native.<br/>
 - Most of my projects are available on Github.<br/>
 - What I'm planning to learn next is : Backend Development.<br/>
 
