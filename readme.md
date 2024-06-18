@@ -5,7 +5,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=likhithkp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=likhithkp&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
