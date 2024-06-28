@@ -9,7 +9,7 @@ An enthusiastic computer science engineer skilled in coding. Seeking to leverage
 ## 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Front-end & Mobile App**.
-- 🌱 &nbsp; I’m currently learning Microservices & Distribtued Systems.
+- 🌱 &nbsp; I’m currently learning Python & Back-end.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/likhithkp?tab=repositories).
 - 💬 &nbsp; Ask me about anything reasonable, I am happy to help.
 - 💜 &nbsp; Things I like: Coding, Books, Automobiles, Exploring stuff....
