@@ -2,7 +2,6 @@
 
 
 An enthusiastic computer science engineer skilled in coding. Seeking to leverage solid skills in collaboration, communication & development as a programmer.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithkp&label=PROFILE+VIEWS&color=0e75b6&color=blueviolet" alt="ghost-iu" />
 <br/>
 
 
