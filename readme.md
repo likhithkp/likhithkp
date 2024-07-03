@@ -6,8 +6,8 @@ Enthusiastic software engineer with a talent for coding and a solid foundation i
 
 ## 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Front-end & Mobile App**.
-- 🌱 &nbsp; I’m currently learning Python & Back-end.
+- 🔭 &nbsp; Currently working on **Front-end & Mobile App**.
+- 🌱 &nbsp; Currently learning Python & Back-end.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/likhithkp?tab=repositories).
 - 💬 &nbsp; Ask me about anything reasonable, I am happy to help.
 - 💜 &nbsp; Things I like: Coding, Books, Automobiles, Exploring stuff....
