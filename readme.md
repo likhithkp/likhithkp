@@ -1,7 +1,6 @@
 # Hey There 👋, I'm Likhith!
 
-
-An enthusiastic computer science engineer skilled in coding. Seeking to leverage solid skills in collaboration, communication & development as a programmer.
+Enthusiastic software engineer with a talent for coding and a solid foundation in computer science. Eager to leverage my skills in collaboration, communication, and development to drive innovative solutions.
 <br/>
 
 
