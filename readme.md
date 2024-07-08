@@ -4,7 +4,7 @@ Enthusiastic software engineer with a talent for coding and a solid foundation i
 <br/>
 
 
-## More About Me:
+## About Me:
 
 - Currently working on **Front-end & Mobile App**.
 - Currently learning Python & Back-end.
