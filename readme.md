@@ -6,7 +6,7 @@ A dedicated software engineer with a passion for building robust applications an
 
 ## About Me:
 
-- Currently professionally working on **Front-end, Mobile app, and Back-end development**.
+- Currently working on **Front-end, Mobile app, and Back-end development**.
 - Currently learning **Python & Back-end**.
 - Ask me about anything reasonable, I am happy to help.
 - Things I like: Coding, Books, Astronomy, Exploring stuff....
