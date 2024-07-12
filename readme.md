@@ -1,6 +1,6 @@
 # Hey There 👋, I'm Likhith!
 
-Enthusiastic software engineer with a talent for coding and a solid foundation in computer science. Eager to leverage my skills in collaboration, communication, and development to drive innovative solutions.
+A dedicated software engineer with a passion for building robust applications and solving complex problems. 
 <br/>
 
 
