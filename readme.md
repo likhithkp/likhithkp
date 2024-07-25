@@ -7,10 +7,10 @@ An enthusiastic computer science engineer skilled in coding. Seeking to leverage
 <br/>
 
 
-## 🧐 More About Me:
+## More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Next.js & React Native**.
-- 🌱 &nbsp; I’m currently learning **Back-end**.
-- 💬 &nbsp; Ask me about anything reasonable, I am happy to help.
-- 💜 &nbsp; Things I like: Coding, Books, Automobiles, Exploring stuff....
-- 🕐 &nbsp; What I'm planning to learn next is **Software Architecture & System Design**.
+- &nbsp; I’m currently working on **Next.js & React Native**.
+- &nbsp; I’m currently learning **Back-end**.
+- &nbsp; Ask me about anything reasonable, I am happy to help.
+- &nbsp; Things I like: Coding, Books, Automobiles, Exploring stuff....
+- &nbsp; What I'm planning to learn next is **Software Architecture & System Design**.
