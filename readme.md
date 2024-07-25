@@ -2,7 +2,7 @@
 # Hey There 👋, I'm Likhith!
 
 
-An enthusiastic computer science engineer skilled in coding. Seeking to leverage solid skills in collaboration, communication & development as a programmer.
+I'm a dedicated Software Engineer with a passion for crafting innovative solutions and writing clean, efficient code. Always eager to learn and collaborate on exciting projects.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithkp&label=PROFILE+VIEWS&color=0e75b6&color=blueviolet" alt="likhithkp" />
 <br/>
 
