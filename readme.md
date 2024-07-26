@@ -9,6 +9,5 @@ I'm a dedicated Software Engineer with a passion for crafting innovative solutio
 
 -  I’m currently working on **Next.js & React Native**.
 -  I’m currently learning **Back-end**.
--  Ask me about anything reasonable, I am happy to help.
 -  Things I like: Coding, Books, Automobiles, Exploring stuff....
 -  What I'm planning to learn next is **Software Architecture & System Design**.
