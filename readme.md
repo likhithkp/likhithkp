@@ -7,6 +7,7 @@ I'm a dedicated Software Engineer with a passion for crafting innovative solutio
 
 ## More About Me:
 
+-  I'm currently working as **SWE@Dudes Co**.
 -  I’m currently working on **Next.js & React Native**.
 -  I’m currently learning **Back-end**.
 -  Things I like: Coding, Books, Automobiles, Exploring stuff....
