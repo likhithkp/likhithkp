@@ -1,5 +1,5 @@
 - **Software Engineer** at Dudes Co.
 - Focus: **Backend Development**
-- Experienced with: **Node.js**, **Express.js**, **Postgres**, **Sequelize**, **Next.js**, **React Native**
+- Experienced with: **Node.js**, **Express.js**, **Postgres**, **Sequelize**, **GraphQL**, **Next.js**, **React Native**
 - Currently learning: **Software Architecture**, **System Design**
 - Interests: **Reading**, **Automobiles**, **Exploring new technologies**
