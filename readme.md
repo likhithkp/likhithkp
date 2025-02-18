@@ -1,3 +1,3 @@
-- Core Interests: *Backend Development, Cloud and Beyond*
-- Experienced with: *Go*, *net/http*, *Gin*, *Node.js*, *Express.js*, *Postgres*, *GraphQL*, *MongoDB* & *ORMs*
-- Currently learning: *Software Architecture*, *System Design**
+- **Core Interests** : *Backend Development, Cloud and Beyond*
+- **Experienced with** : *Go*, *net/http*, *Gin*, *Node.js*, *Express.js*, *Postgres*, *GraphQL*, *MongoDB* & *ORMs*
+- **Currently learning** : *Software Architecture*, *System Design**
